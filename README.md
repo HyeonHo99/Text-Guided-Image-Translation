@@ -4,8 +4,11 @@
   <li>Graduation Thesis Project - Jeong Hyeonho Sungkyunkwan University, College of Computing</li>
 </ul>
 
+## Abstract
 
+## Preliminaries
 
+## Methods
 
 ## Results - Qualitative Analysis
 
