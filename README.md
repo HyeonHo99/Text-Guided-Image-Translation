@@ -8,7 +8,7 @@
 ### Train from scratch
 
 ```consle
-  $python train.py 
+  $python train.py --mode fl-clip --data horse2zebra --epoch 200
 ```
 
 ## Abstract
